@@ -1,0 +1,15 @@
+{
+  "hash": "b373e2f896cd8a150e811fea4c551885",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"A1-Mathematical Experiments using code\"\nauthor: \"Rayna Singh\"\ndate: \"2025-03-22\"\ncategories: [A1, P5js]\nimage: \"img4.png\"\n---\n\n\n\nThis is a post with executable code.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 3\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n:::\n\n::: {.cell}\n\n:::\n\n\n\n``` javascript\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

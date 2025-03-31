@@ -1,0 +1,152 @@
+---
+title: "A1-Group Project"
+author: "Rayna Singh"
+date: "2025-03-22"
+categories: [A1, P5js]
+image: "flowerw.png"
+---
+
+## A1
+
+------------------------------------------------------------------------
+
+<button>[Generative Garden]{.button_top}</button>
+
+------------------------------------------------------------------------
+
+Diya Bijoy, Rayna Singh, Aanya Pandith, Naman Rajoria, Soumya Saboo
+
+<iframe src="https://editor.p5js.org/rayna20singh20/full/EH96o9aZE" height="600" width="800">
+
+</iframe>
+
+### Concept Note
+
+\
+In Islamic culture, creating a garden is equivalent to building a piece of heaven on earth. The main objective of this art piece is to fabricate an immersive 3D garden that reimagines natural landscapes through digital media using code. The title “Anavrin,” is Nirvana spelled backwards, the reason for initiating this title is to reinstate the serenity that a garden brings to the visitor. Our main objective is to mirror a real-world garden, or rather our interpretation of the same, onto a digital stage. Hence, we use the mirror as our main conduit for this exercise and hold up a mirror on the word ‘Nirvana.’ Nirvana can be interpreted as a place or state of oblivion to care, pain, or external reality.
+
+Our intent wasn’t just to create a mere replication of a garden using the varied and vibrant mathematical functions that we learnt. Rather, we wanted to create a body of work that echoes it’s origin, that is laid with embedded metaphors and meaning. We wanted it to be both a visual and philosophical exploration and creation.
+
+This project blends art, ecology, and technology to create an environment that evolves based on the contributions of each teammate. We have established pathways for the viewers or spectators to not only eye the art piece but interact with it. Our philosophy dictates that if art can’t make you stop, look and interact, if it can’t make you think, there is no point in calling it art. We didn’t want to infer the metaphor or the alt text we use in this, instead, we left it to the viewer with any discretion to figure out how the garden is laid out and the purpose of each element. Parallel to the beginning of every epic, we start off with the sky. The sky is the poetry cloud, a cluster of disconinuities laid out in a channel, they indicate the presence of divinity and pivot change. Then we proceed to the flowers, that change colour and shape and position, they embody all material objects. After which we have the trees, which grow and perish, they are used to metaphorise change. We have butterflies in the composition that embody the untimely notion of life and death and life after death. Finally we have a pond, a water body to symbolise rejuvenation.
+
+Using p5.js, WEBL and learning how to put everything together felt difficult and overwhelming to a lot of us. But we persisted and figured out how to navigate through the tough times. For the purpose of creating our digital ecosystem, we considered and looked to Mother Nature for inspiration. We developed and formulated an ecosystem. Each element is a contribution of each individual and their creative expression in the most expressive way. It also reflects the diversity and convergence of our minds and ideas and how they all formulate and meet at a common ground. The purpose of this art piece is to evoke the sense of being in a garden and trying to visualise the garden but in a more visceral manner.
+
+### Garden Elements & Math Concepts
+
+**1) Flowers\
+**Math Concept: Parametric Equations
+
+-   The flower shape is defined using parametric equations in polar coordinates.
+
+-   In the code, this equation generates radial symmetry, giving the flower a structured petal arrangement.
+
+`<iframe src="https://editor.p5js.org/Sabootage-420/full/5Fg8Dmw3F"`{=html} `height= '600' width='800'></iframe>`{=html}
+
+`<iframe src="https://editor.p5js.org/Sabootage-420/full/5VZoFRbds"`{=html} `height= '600' width='800'></iframe>`{=html}
+
+`<iframe src="https://editor.p5js.org/Sabootage-420/full/rF8EcnjeS"`{=html} `height= '600' width='800'></iframe>`{=html}\
+\
+<iframe src="https://editor.p5js.org/AanyaPandith/full/d0cGEHKk8" height= '600' width='800'></iframe>\
+\
+\
+**2) Terrain**\
+Math Concept: Julia Fractals
+
+-   The Julia set determines which areas are water or land.
+
+-   Formula: z=z\^2+c
+
+-   The rule takes a number, changes it using a formula and checks if it stays small or grows big.
+
+-   In the code, it creates a procedural landscape where blue areas represent water, and green areas represent land.
+
+<iframe src="https://editor.p5js.org/rayna20singh20/full/s1X5v9BHc" height="600" width="800">
+
+</iframe>
+
+\
+\
+**3) Trees**\
+Math Concept: Geometric Progression
+
+-   Geometric progression is a sequence where each term is multiplied by a fixed ratio.
+
+-   Ln​=L0​×rn, where the branch length shrinks by **70%** each step.
+
+-   Each branch recursively creates three smaller branches, reducing in size until the length is 10 or less.\
+
+<iframe src="https://editor.p5js.org/diyaaa/full/E9gXpnlnR" height="600" width="800">
+
+</iframe>
+
+**4) Butterflies**\
+Math Concept: Circular Motion
+
+-   Circular motion describes movement along a curved path where an object's position changes based on sine and cosine functions.
+
+-   Formula: x=rcos(θ),y=rsin(θ)
+
+-   Each butterfly moves in a circular path by updating its xxx and yyy coordinates using cosine and sine functions.\
+
+<iframe src="https://editor.p5js.org/naman.rajoria19/full/oAbr4xEjU" height="600" width="800">
+
+</iframe>
+
+\
+\
+
+**6) Clouds**\
+Math Concept: Euclidean Distance
+
+-   Euclidean distance measures how far two points are from each other in a straight line.
+
+-   Formula:\
+    d=(x2−x1)2+(y2−y1)2d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}d=(x2​−x1​)2+(y2​−y1​)2​
+
+-   In the code, it calculates the distance between the mouse and each cloud to adjust their size and transparency.
+
+-   Closer clouds appear bigger and brighter, while farther clouds appear smaller and more transparent.\
+
+<iframe src="https://editor.p5js.org/naman.rajoria19/full/souDanBHQ" height="600" width="800">
+
+</iframe>
+
+### Process & Practise
+
+We began by exploring natural patterns and generative algorithms, experimenting with different plant growth models, fractals and interactive elements.
+
+<!-- First Row -->
+
+::: {style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;"}
+<iframe src="https://editor.p5js.org/AanyaPandith/full/oqAxLL0TP" width="400" height="300">
+
+</iframe>
+
+<iframe src="https://editor.p5js.org/AanyaPandith/full/NNeo_b0dx" width="400" height="300">
+
+</iframe>
+:::
+
+<!-- Second Row -->
+
+::: {style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;"}
+<iframe src="https://editor.p5js.org/AanyaPandith/full/G1azhfHjT" width="400" height="300">
+
+</iframe>
+
+<iframe src="https://editor.p5js.org/diyaaa/full/VjLCQemJp" width="400" height="300">
+
+</iframe>
+:::
+
+<!-- Third Row (New Sketches) -->
+
+::: {style="display: flex; justify-content: center; gap: 10px;"}
+<iframe src="https://editor.p5js.org/pmcfarla/full/2W3ewKjyN" width="400" height="300">
+
+</iframe>
+
+<iframe src="https://editor.p5js.org/diyaaa/full/u7gq4GuyG" width="400" height="300">
+
+</iframe>
+:::
