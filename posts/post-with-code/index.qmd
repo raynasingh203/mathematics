@@ -16,7 +16,7 @@ image: "flowerw.png"
 
 Rayna Singh, Diya Bijoy, Aanya Pandith, Naman Rajoria, Soumya Saboo
 
-![Image of Generative Garden](garden.jpg)
+![Image of Generative Garden](garden2.jpg)
 
 |                  |                  |
 |------------------|------------------|
