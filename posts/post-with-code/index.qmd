@@ -1,12 +1,12 @@
 ---
-title: "A1-Group Project"
+title: "╰┈➤ A1"
 author: "Rayna Singh"
 date: "2025-04-31"
-categories: [A1, P5js]
+categories: [A1, p5.js]
 image: "flowerw.png"
 ---
 
-## A1.
+## A1
 
 ------------------------------------------------------------------------
 
