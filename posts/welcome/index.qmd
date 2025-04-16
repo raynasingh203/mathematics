@@ -18,7 +18,9 @@ Aadil Tanwir, Naman Rajoria, Rayna Singh, Soumya Saboo, Sriharshitha Bhagvati
 
 </iframe>
 
-Our a2 explores how machine learning can recognize five classical mudras using hand gesture detection, and play a specific song for each one.
+**Our A2 project explores how a neural network can recognize five classical mudras using hand gesture detection, triggering a unique song for each one.** 
+
+We combined hand pose estimation with a custom-trained neural network to build an interactive system that responds to traditional gestures in real time.
 
 ------------------------------------------------------------------------
 
