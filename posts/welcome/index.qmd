@@ -101,3 +101,13 @@ Finally, we noticed the model was sometimes predicting a mudra even when there w
 ::: {style="display: flex; gap: 16px; justify-content: center;"}
 <img src="arala.png" style="height: 250px; border-radius: 12px;"/> <img src="mayura.png" style="height: 250px; border-radius: 12px;"/> <img src="kataka_mukha.png" style="height: 250px; border-radius: 12px;"/> <img src="kapita.png" style="height: 250px; border-radius: 12px;"/> <img src="kartari.png" style="height: 250px; border-radius: 12px;"/>
 :::
+
+------------------------------------------------------------------------
+
+<button>This project was super fun to work on. It was one of those rare assignments where everything, from clicking awkward mudra photos to cleaning datasets and writing actual neural network code felt like a mix of chaos and excitement from start to finish. I learned so much, not just about neural networks and `ml5.js`, but also how to deal with weird bugs, missing labels, and random things that just didn’t work until they magically did.
+
+Honestly, I never thought using CSVs to store hand landmarks would actually work for training a neural network. I always thought of CSVs for supervised learning as basic ML stuff, independent and dependent variables, the usual. So this approach definitely had me confused at first. But once I got into the code, it all started to click. Not everything went smoothly, but figuring things out along the way made it way more rewarding.
+
+</button>
+
+------------------------------------------------------------------------
